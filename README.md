@@ -47,4 +47,4 @@ I'm an Android user because I prefer open-source software. Android allows full c
 </p>
 
 ### My github stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![0echopixel's GitHub stats](https://github-readme-stats.vercel.app/api?username=0echopixel&show_icons=true&theme=transparent)
