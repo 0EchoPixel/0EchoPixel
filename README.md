@@ -45,3 +45,6 @@ I have experience working with Adobe apps like Photoshop, Premiere Pro, After Ef
 I'm an Android user because I prefer open-source software. Android allows full customization, including rooting, while I dislike Apple's business practices. <br>  
 
 </p>
+
+### My github stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
