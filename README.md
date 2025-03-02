@@ -9,11 +9,9 @@
 <p align="left">  
   
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" style="outline: none; border: none;"/></a>&nbsp;&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/dfg.png">
-  <source media="(prefers-color-scheme: light)" srcset="/daily.png">
-  <img alt="Opis obrazka" src="/dfg.png">
-</picture>
+<img src="dfg.png#gh-light-mode-only" height="20">
+<img src="daily.png#gh-dark-mode-only" height="20">
+ Tekst obok obrazka.
 
 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" style="outline: none; border: none;"/></a>&nbsp;&nbsp;&nbsp;
