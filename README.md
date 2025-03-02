@@ -9,7 +9,7 @@
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" style="outline: none; border: none;"/>
 </a>&nbsp;&nbsp;&nbsp;
-### I’m a big fan of Arduino and really enjoy working with it. <br>  
+<h3> I’m a big fan of Arduino and really enjoy working with it. </h3> <br>  
 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin-right: 20px;"/>
