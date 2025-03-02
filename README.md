@@ -12,7 +12,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/dfg.png">
   <source media="(prefers-color-scheme: light)" srcset="/daily.png">
-  <img alt="Opis obrazka" src="light-mode-image.png">
+  <img alt="Opis obrazka" src="/dfg.png">
 </picture>
 
 
