@@ -9,7 +9,13 @@
 <p align="left">  
   
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" style="outline: none; border: none;"/></a>&nbsp;&nbsp;&nbsp;
-<img src="/dag.png" height="32px" width="51px"> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dfg.png">
+  <source media="(prefers-color-scheme: light)" srcset="light-mode-image.png">
+  <img alt="Opis obrazka" src="light-mode-image.png">
+</picture>
+
+
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" style="outline: none; border: none;"/></a>&nbsp;&nbsp;&nbsp;
 I’m a big fan of Arduino and really enjoy working with it.  
 
