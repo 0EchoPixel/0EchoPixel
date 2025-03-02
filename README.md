@@ -10,7 +10,7 @@
   
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" style="outline: none; border: none;"/></a>&nbsp;&nbsp;&nbsp;
 <svg width="200" height="50">
-  <text x="10" y="30" font-size="24" fill="black">Large Text</text>
+  <text x="10" y="30" font-size="36" fill="black">Large Text</text>
 </svg>
 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" style="outline: none; border: none;"/></a>&nbsp;&nbsp;&nbsp;
