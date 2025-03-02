@@ -8,6 +8,9 @@
 
 <p align="left">  
 
+<a><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" style="outline: none; border: none;"/></a>&nbsp;&nbsp;&nbsp;
+I’m a big fan of Arduino and really enjoy working with it. <br>  
+
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" style="outline: none; border: none;"/>
 </a>&nbsp;&nbsp;&nbsp;
