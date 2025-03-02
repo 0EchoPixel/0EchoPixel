@@ -21,9 +21,7 @@ I love Python for its community, vast libraries, and versatility. <br>
 VS Code is my main IDE. <br>  
 
 <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="40" height="40" style="margin-right: 20px;"/></a>&nbsp;
-
 <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" height="40" style="margin-right: 20px;"/></a>&nbsp;
-
 <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/aftereffects/aftereffects-original.svg" alt="After Effects" width="40" height="40" style="margin-right: 20px;"/></a>&nbsp;&nbsp;&nbsp;
 I have experience working with Adobe apps like Photoshop, Premiere Pro, After Effects, and Audition. <br>  
 
