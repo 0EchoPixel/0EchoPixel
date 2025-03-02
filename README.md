@@ -4,12 +4,14 @@
 - 🌱 Currently learning **Reverse Engineering**.  
 - ⚡ Fun fact: **I had my first encounter with a computer when I was 6 years old, and I instantly fell in love with it! ❤️**  
 
-<p align="left"">  
+### 🛠️ Languages and Tools  
+
+<p align="left">  
 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" style="outline: none; border: none;"/>
 </a>&nbsp;&nbsp;&nbsp;
-<h3> I’m a big fan of Arduino and really enjoy working with it. </h3> <br>  
+I’m a big fan of Arduino and really enjoy working with it. <br>  
 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin-right: 20px;"/>
@@ -43,4 +45,3 @@ I have experience working with Adobe apps like Photoshop, Premiere Pro, After Ef
 I'm an Android user because I prefer open-source software. Android allows full customization, including rooting, while I dislike Apple's business practices. <br>  
 
 </p>
-
