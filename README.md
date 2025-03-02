@@ -4,7 +4,7 @@
 - 🌱 Currently learning **Reverse Engineering**.  
 - ⚡ Fun fact: **I had my first encounter with a computer when I was 6 years old, and I instantly fell in love with it! ❤️**  
 
-<p align="left" style="font-size: 18px;">  
+<p align="left" style="font-size: 28px;">  
 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" style="outline: none; border: none;"/>
