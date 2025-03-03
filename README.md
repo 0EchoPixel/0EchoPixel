@@ -9,7 +9,8 @@
 <p align="left">  
 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" style="outline: none; border: none;"/></a>&nbsp;&nbsp;&nbsp;
-I’m a big fan of Arduino and really enjoy working with it.  
+I’m a big fan of Arduino and really enjoy working with it.  <b>
+Checkout my [Arduino Projects](https://github.com/0EchoPixel/Arduino-Projects)
 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin-right: 20px;"/></a>&nbsp;&nbsp;&nbsp;
 I prefer Linux over Windows, but most of the software I use just runs better on Windows. 😢 <br> (BTW, check out my [Windows optimization guide](https://github.com/0EchoPixel/WindowsOptimizationGuide)) <br>  
