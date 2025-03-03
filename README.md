@@ -19,7 +19,7 @@ I prefer Linux over Windows, but most of the software I use just runs better on 
 I love Python for its community, vast libraries, and versatility. <br>  
 
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" width="40" height="40" style="margin-right: 20px;"/></a>&nbsp;&nbsp;&nbsp;
-VS Code is my main IDE. <br>  
+VS Code is my main IDE. <br> <br>
 
 <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="40" height="40" style="margin-right: 20px;"/></a>&nbsp;
 <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" height="40" style="margin-right: 20px;"/></a>&nbsp;
